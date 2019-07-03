@@ -14,6 +14,9 @@ p1 has no effect when either its on or off
 maybe a quick disassembly will tell us what it does  
 p2 has no effect when either its on or off   
 maybe a quick disassembly will tell us what it does  
+
+-----
+Typically users will set both booleans to true to make the vehicle a mission entity, and both booleans to false to remove it. 
 ```
 
 ## Parameters
